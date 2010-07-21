@@ -1,0 +1,29 @@
+# Material file for mesh.obj
+
+newmtl eyebrows
+Kd 0 0 0
+
+newmtl teeth
+Kd 1 1 1
+
+newmtl head
+Kd 0.901961 0.772549 0.694118
+
+newmtl tongue
+Kd 1 0 0
+
+newmtl iris
+Kd 0 0 0
+
+newmtl body
+Kd 0.901961 0.772549 0.694118
+
+newmtl eyelashes
+Kd 0 0 0
+
+newmtl eye
+Kd 1 1 1
+
+newmtl bones
+Kd 1 1 1
+
