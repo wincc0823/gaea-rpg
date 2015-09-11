@@ -1,0 +1,7 @@
+# Introduction #
+Juego basado en el mundo de Gaea World. Cooperativo de hasta 4 personas, rpg
+
+
+# Estructura #
+
+**MainCamera - Script de la camara principal.** Movimiento - Script para el movimiento.
